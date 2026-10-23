@@ -1,0 +1,7 @@
+*.mat
+*.fig
+*.asv
+*.mlx
+*.slxc
+*.log
+.DS_Store
